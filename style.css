@@ -1,0 +1,162 @@
+.navbar1 {
+
+    position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 0.5rem 0.5rem;
+}
+
+
+
+.top-area {
+    color: #fff;
+    border-bottom: 1px solid #363636;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(54, 54, 54);
+    border-top: 5px solid #150485;
+    background-color: #150485;
+    border-bottom: 1px solid #494c64;
+    position: relative;
+
+
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 0px 0px 0px 0px;
+    vertical-align: middle;
+
+    box-sizing: border-box;
+
+    font-size: 0;
+    line-height: 20px;
+
+
+
+    }
+
+
+
+.top-area2 {
+
+    color: #fff;
+    background-color:#150485 ;
+    padding: 10px 0px 0px 0px;
+
+}
+.top-items {
+
+    margin: 0 -35px;
+    margin-top: 0px;
+    margin-right: -35px;
+    margin-bottom: 0px;
+    margin-left: -35px;
+
+    font-size: 0;
+    line-height: 0;
+
+    box-sizing: border-box;
+}
+
+.top-area-block {
+
+    height: 30px;
+    line-height: 30px;
+
+    font-size: 16px;
+
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 35px;
+
+
+}
+
+.top-area-contact {
+
+    margin: 0 -17px;
+    margin-top: 0px;
+    margin-right: -17px;
+    margin-bottom: 0px;
+    margin-left: -17px;
+
+    font-size: 0;
+    line-height: 0;
+
+
+}
+
+.top-area-contactslist {
+
+    display: inline-block;
+    font-size: 14px;
+    padding: 0 20px;
+    vertical-align: top;
+
+    text-decoration: none
+    
+}
+
+
+ a:link {color: white;}      /* unvisited link */
+
+
+.top-social {
+
+    height: 30px;
+    line-height: 30px;
+
+    font-size: 16px;
+
+    margin: 0 -5px;
+    margin-top: 0px;
+    margin-right: -5px;
+    margin-bottom: 0px;
+    margin-left: -5px;
+
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 35px;
+
+
+}
+
+.top-social-btn {
+
+    margin-top: 7px;
+
+    font-size: 0;
+    line-height: 0;
+
+
+}
+
+.top-area-social-btn {
+
+    padding: 0 7px;
+    padding-top: 0px;
+    padding-right: 7px;
+    padding-bottom: 0px;
+    padding-left: 7px;
+
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+
+    color: #b2b2b2
+}
